@@ -5,3 +5,4 @@ let accountName="Jo";
 var email="joby@gmail.com";
 
 console.table([accountId, accountName, email]);
+console.log(accountId, accountName, email);
